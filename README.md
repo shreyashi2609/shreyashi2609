@@ -13,7 +13,7 @@
 ## 📊 My Coding Universe
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shreyashi2609&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=4ECDC4&text_color=FFFFFF&border_radius=10" />
+  <img width="48%" src="[https://github-readme-stats.vercel.app/api?username=shreyashi2609&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=4ECDC4&text_color=FFFFFF&border_radius=10](https://github-readme-stats-eight-theta.vercel.app/api?username=shreyashi2609&show_icons=true&theme=radical)" />
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashi2609&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF&border_radius=10" />
 </p>
 
