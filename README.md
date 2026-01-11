@@ -36,11 +36,11 @@
 
 ## 📊 Core Expertise
 
-| Area | Focus | Mastery |
-| :--- | :--- | :--- |
-| **Development** | Frontend (React) / Backend (Node) | ▓▓▓▓▓▓▓▓▓░ 90% |
-| **Intelligence** | Machine Learning / Computer Vision | ▓▓▓▓▓▓▓░░░ 70% |
-| **Architecture** | Database Design / Microservices | ▓▓▓▓▓▓▓▓░░ 80% |
+| Area | Focus |
+| :--- | :--- |
+| **Development** | Frontend (React) / Backend (Node) |
+| **Intelligence** | Machine Learning / Computer Vision |
+| **Architecture** | Database Design / Microservices |
 
 ---
 
@@ -58,6 +58,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4ECDC4&height=100&section=footer" />
 
-*"The computer was born to solve problems that did not exist before."*
+*"Programming is 10% writing code and 90% understanding why it's not working."*
 
 </div>
