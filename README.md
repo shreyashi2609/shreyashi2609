@@ -47,9 +47,9 @@
 
 | Domain | Focus Area |
 | :--- | :--- |
-| **Programming** | [cite_start]C++, Python, Java  |
-| **Data & Cloud** | [cite_start]SQL, PostgreSQL, Supabase [cite: 6, 24] |
-| **Web Dev** | [cite_start]React, Tailwind, HTML/CSS [cite: 6, 24] |
+| **Programming** | C++, Python, Java  |
+| **Data & Cloud** | SQL, PostgreSQL, Supabase |
+| **Web Dev** | React, Tailwind, HTML/CSS |
 
 ---
 
