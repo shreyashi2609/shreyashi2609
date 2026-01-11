@@ -5,7 +5,7 @@
 ### 🚀 Computer Engineering Student | Full-Stack Developer | AI/ML Enthusiast
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shreyashi-srivastava&color=blueviolet)
-![GitHub Followers](https://img.shields.io/github/followers/shreyashi-srivastava?label=Follow&style=social)
+![GitHub Followers](https://img.shields.io/github/followers/shreyashi2609?label=Follow&style=social)
 
 </div>
 
@@ -23,7 +23,9 @@
 
 <!-- Snake Game Contribution Graph -->
 ### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/shreyashi-srivastava/shreyashi-srivastava/output/github-contribution-grid-snake.svg)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/shreyashi2609/shreyashi2609/output/snake.svg" alt="Snake animation" />
 
 </div>
 
