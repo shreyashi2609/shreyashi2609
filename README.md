@@ -1,50 +1,59 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&text=SHREYASHI%20SRIVASTAVA&fontSize=50&fontAlignY=40&fontColor=4ECDC4&animation=fadeIn&height=150" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&text=SHREYASHI%20SRIVASTAVA&fontSize=45&fontAlignY=40&fontColor=4ECDC4&animation=fadeIn&height=150" alt="Header" />
 
-### 🚀 Computer Engineering Student • AI/ML Developer • Full-Stack Architect
+### 🚀 Computer Engineering @ NMIMS Mumbai
+**Aspiring Software Developer | AI/ML Enthusiast**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Building_The_Future-FF6B9D?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Mumbai%2C_India-4ECDC4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Seeking_Internship-May_--_July_2026-FF6B9D?style=flat-square" />
+  <img src="https://img.shields.io/badge/Language-B1_French_Certified-4ECDC4?style=flat-square" />
 </p>
 
 ---
 
-## 💻 Tech Arsenal
+## 🛠️ Technical Arsenal
 
-**Languages & Frameworks**
+**Core Languages (Moderate to Advanced Proficiency)**
 <br />
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,tailwind,html,css&perline=8" />
+<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,sql&perline=6" />
 
-**Tools & Infrastructure**
+**Frameworks & Infrastructure**
 <br />
-<img src="https://skillicons.dev/icons?i=postgres,supabase,docker,git,vscode,postman,linux,github&perline=8" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,postgres,supabase,docker,git&perline=6" />
 
 ---
 
-## 🌟 Featured Portfolio
+## 🌟 Featured Projects
 
-| Project | Concept | Tech Highlight |
+| Project | Key Innovation | Tech Stack |
 | :--- | :--- | :--- |
-| **🏥 Arogya Map** | MedTech Microservice | `FHIR Standards` |
-| **🌾 Agro Snap** | AI Agriculture Diagnostic | `Computer Vision` |
-| **👨‍👩‍👧‍👦 Aegis Link** | Family Health Ecosystem | `Supabase Architecture` |
-| **♻️ Waste Segregator** | Automated Classification | `Generative AI` |
+| **🏥 Arogya Map** | MedTech microservice using **FHIR** & ABHA OAuth 2.0. | `Python` `Docker` |
+| **🌾 Agro Snap** | **GenAI** platform for instant agricultural diagnostics. | `Python` `AI` |
+| **👨‍👩‍👧‍👦 Aegis Link** | Family health dashboard with telemedicine sync. | `React` `Supabase` |
+| **♻️ Waste Segregator** | Automated waste classification via **Computer Vision**. | `Python` `APIs` |
 
 ---
 
-## 📊 Core Expertise
+## 🏢 Leadership & Impact
 
-| Area | Focus |
+* **Subhead of Technicals** | IEEE Computer Society, MPSTME
+* **R&D Executive** | Microsoft Students Club, MPSTME
+* **Event Operations** | Google Developer Student Club (2024-2025)
+
+---
+
+## 📊 Proficiency Overview
+
+| Domain | Focus Area |
 | :--- | :--- |
-| **Development** | Frontend (React) / Backend (Node) |
-| **Intelligence** | Machine Learning / Computer Vision |
-| **Architecture** | Database Design / Microservices |
+| **Programming** | [cite_start]C++, Python, Java  |
+| **Data & Cloud** | [cite_start]SQL, PostgreSQL, Supabase [cite: 6, 24] |
+| **Web Dev** | [cite_start]React, Tailwind, HTML/CSS [cite: 6, 24] |
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
 <a href="mailto:shreyashi.s2005@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -57,7 +66,5 @@
 <br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4ECDC4&height=100&section=footer" />
-
-*"Programming is 10% writing code and 90% understanding why it's not working."*
 
 </div>
