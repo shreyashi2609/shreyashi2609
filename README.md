@@ -5,11 +5,6 @@
 ### 🚀 Computer Engineering @ NMIMS Mumbai
 **Aspiring Software Developer | AI/ML Enthusiast**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Seeking_Internship-May_--_July_2026-FF6B9D?style=flat-square" />
-  <img src="https://img.shields.io/badge/Language-B1_French_Certified-4ECDC4?style=flat-square" />
-</p>
-
 ---
 
 ## 🛠️ Technical Arsenal
