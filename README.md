@@ -62,4 +62,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4ECDC4&height=100&section=footer" />
 
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shreyashi2609&style=for-the-badge&color=77DD77&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
 </div>
