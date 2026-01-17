@@ -10,7 +10,6 @@
 ## 🛠️ Technical Arsenal
 
 **Core Languages**
-*(Moderate to Advanced Proficiency)*
 <br />
 <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,sql&theme=dark" />
 
