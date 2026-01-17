@@ -1,40 +1,65 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&text=SHREYASHI%20SRIVASTAVA&fontSize=45&fontAlignY=40&fontColor=4ECDC4&animation=fadeIn&height=150" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&text=SHREYASHI%20SRIVASTAVA&fontSize=50&fontAlignY=40&fontColor=4ECDC4&animation=fadeIn&height=150" alt="Header" />
 
 ### 🚀 Computer Engineering @ NMIMS Mumbai
 **Aspiring Software Developer | AI/ML Enthusiast**
- 
+
 ---
 
 ## 🛠️ Technical Arsenal
 
-**Core Languages (Moderate to Advanced Proficiency)**
+**Core Languages**
+*(Moderate to Advanced Proficiency)*
 <br />
-<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,sql&perline=6" />
+<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,sql&theme=dark" />
+
+<br />
 
 **Frameworks & Infrastructure**
 <br />
-<img src="https://skillicons.dev/icons?i=react,tailwind,postgres,supabase,docker,git&perline=6" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,postgres,supabase,docker,git&theme=dark" />
 
 ---
 
 ## 🌟 Featured Projects
 
-| Project | Key Innovation | Tech Stack |
-| :--- | :--- | :--- |
-| **🏥 Arogya Map** | MedTech microservice using **FHIR** & ABHA OAuth 2.0. | `Python` `Docker` |
-| **🌾 Agro Snap** | **GenAI** platform for instant agricultural diagnostics. | `Python` `AI` |
-| **👨‍👩‍👧‍👦 Aegis Link** | Family health dashboard with telemedicine sync. | `React` `Supabase` |
-| **♻️ Waste Segregator** | Automated waste classification via **Computer Vision**. | `Python` `APIs` |
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3>🏥 Arogya Map</h3>
+      <p>MedTech microservice using <b>FHIR</b> & ABHA OAuth 2.0</p>
+      <code>Python</code> • <code>Docker</code>
+    </td>
+    <td width="50%" align="center">
+      <h3>🌾 Agro Snap</h3>
+      <p><b>GenAI</b> platform for instant agricultural diagnostics</p>
+      <code>Python</code> • <code>AI</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>👨‍👩‍👧‍👦 Aegis Link</h3>
+      <p>Family health dashboard with telemedicine sync</p>
+      <code>React</code> • <code>Supabase</code>
+    </td>
+    <td width="50%" align="center">
+      <h3>♻️ Waste Segregator</h3>
+      <p>Automated waste classification via <b>Computer Vision</b></p>
+      <code>Python</code> • <code>APIs</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🏢 Leadership & Impact
 
-* **Subhead of Technicals** | IEEE Computer Society, MPSTME
-* **R&D Executive** | Microsoft Students Club, MPSTME
-* **Event Operations** | Google Developer Student Club (2024-2025)
+> **Subhead of Technicals** | IEEE Computer Society, MPSTME
+> <br />
+> **R&D Executive** | Microsoft Students Club, MPSTME
+> <br />
+> **Event Operations** | Google Developer Student Club (2024-2025)
 
 ---
 
@@ -42,7 +67,7 @@
 
 | Domain | Focus Area |
 | :--- | :--- |
-| **Programming** | C++, Python, Java  |
+| **Programming** | C++, Python, Java |
 | **Data & Cloud** | SQL, PostgreSQL, Supabase |
 | **Web Dev** | React, Tailwind, HTML/CSS |
 
@@ -59,13 +84,12 @@
 </a>
 
 <br />
+<br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4ECDC4&height=100&section=footer" />
 
 <br />
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreyashi2609&style=for-the-badge&color=77DD77&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+<img src="https://komarev.com/ghpvc/?username=shreyashi2609&style=for-the-badge&color=4ECDC4&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
